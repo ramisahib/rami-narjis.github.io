@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Akad
+X-WR-TIMEZONE:Asia/baghdad
+X-WR-CALDESC:Nrjis and Rami
+BEGIN:VEVENT
+DTSTART:20240617T020000Z
+DTEND:20240617T030000Z
+DTSTAMP:20220316T201356Z
+ORGANIZER;CN=Akad dan Walimah:mailto:p68227rf4u2tqb5orkf10m3u44@group.calendar.google.com
+UID:5m3ca0jounu3mnnof0v5qi9b6e@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=maulidannashuha@gmail.com;X-NUM-GUESTS=0:mailto:maulidannashuha@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=rayhanyulanda@gmail.com;X-NUM-GUESTS=0:mailto:rayhanyulanda@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/sey-bzwd-coz
+CLASS:PUBLIC
+CREATED:20211120T164101Z
+DESCRIPTION:<html-blob><b>Bismillahirrahmanirrahim</b><br>Kami mengundang Bapak/Ibu/Saudara/i untuk hadir di acara pernikahan kami. InsyaAllah akan diadakan di<br><br>Akad Nikah : Mesjid Keuchik Leumik\, 17 Juni 2024 - 09:00.<br>Walimatul 'Ursy : Amel Convention Hall\, 18 Juni 2024 - 10:00.<br><br>Selengkapnya :&nbsp\;<a href="https://s.id/rehan-maulid" id="ow573" __is_owner="true">https://s.id/rehan-maulid</a><br><br>Regards\,<br><u>Nrjis and Rami</u></html-blob>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nThis event has a video call.\nJoin: https://meet.google.com/sey-bzwd-coz\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220316T201156Z
+LOCATION:Masjid Haji Keuchik Leumiek\, Lamseupeung\, Kec. Lueng Bata\, Kota Banda Aceh\, Aceh 23127\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Akad Nikah Nrjis and Rami
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240618T030000Z
+DTEND:20240618T070000Z
+DTSTAMP:20220316T201356Z
+ORGANIZER;CN=Akad dan Walimah:mailto:p68227rf4u2tqb5orkf10m3u44@group.calendar.google.com
+UID:01sscn507drh3vuf423pi7s9g0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=maulidannashuha@gmail.com;X-NUM-GUESTS=0:mailto:maulidannashuha@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=rayhanyulanda@gmail.com;X-NUM-GUESTS=0:mailto:rayhanyulanda@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/sey-bzwd-coz
+CLASS:PUBLIC
+CREATED:20211120T164336Z
+DESCRIPTION:<html-blob><b>Bismillahirrahmanirrahim</b><br>Kami mengundang Bapak/Ibu/Saudara/i untuk hadir di acara pernikahan kami. InsyaAllah akan diadakan di<br><br>Akad Nikah : Mesjid Keuchik Leumik\, 17 Juni 2024 - 09:00.<br>Walimatul 'Ursy : Amel Convention Hall\, 18 Juni 2024 - 10:00.<br><br>Selengkapnya :&nbsp\;<a href="https://s.id/rehan-maulid" id="ow994" __is_owner="true">https://s.id/rehan-maulid</a><br><br>Regards\,<br><u>Nrjis and Rami</u></html-blob>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nThis event has a video call.\nJoin: https://meet.google.com/sey-bzwd-coz\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220316T201316Z
+LOCATION:Masjid Haji Keuchik Leumiek\, Lamseupeung\, Kec. Lueng Bata\, Kota Banda Aceh\, Aceh 23127, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Walimatul 'Ursy Nrjis and Rami
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
